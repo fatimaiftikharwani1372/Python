@@ -1,0 +1,3 @@
+Food,150
+Travel,80
+Stationary,100
